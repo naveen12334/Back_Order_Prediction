@@ -1,5 +1,11 @@
 # Back_Order_Prediction
+Predicting whether the product will be gone in Back Order or not.
+
+# Input Values
 ![](https://github.com/naveen12334/Back_Order_Prediction/blob/main/Before.PNG)
+
+# Result
+![](https://github.com/naveen12334/Back_Order_Prediction/blob/main/After.PNG)
 
 # Problem Statement:
 Backorders are unavoidable, but by anticipating which things will be backordered, 
